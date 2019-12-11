@@ -48,5 +48,5 @@ The output of the Use Gate is ![image-20191211120122026](imgs/image-201912111201
 
 Because github doesn't support latex, so I have made a original, which is latex math.
 
-[to]()
+[to](https://github.com/chajnoven/Deep-learning-Implement-notebook/blob/master/Notebook/NLP/original/README-original.md)
 
