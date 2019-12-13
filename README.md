@@ -4,4 +4,4 @@ ___
 
 ### Content
 - [Notebook](https://github.com/chajnoven/Deep-learning-Implement-notebook/tree/master/Notebook/NLP)
-- [Style Transfer notebook](https://github.com/chajnoven/Deep-learning-Implement-notebook/tree/master/Style%20Transfer)
+- [Style Transfer](https://github.com/chajnoven/Deep-learning-Implement-notebook/tree/master/Style%20Transfer)
