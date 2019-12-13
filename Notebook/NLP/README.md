@@ -12,7 +12,8 @@
 
 For Pictures, In NLP, It needs to consider to the length.
 
-
+reference
+[udacity](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb)
 
 ## LSTM
 
