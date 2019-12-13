@@ -1,8 +1,8 @@
 # Content
 
-- [RNN](##RNN)
+- [RNN](##rnn)
 
-- [LSTM](##LSTM)
+- [LSTM](##lstm)
 
 
 
