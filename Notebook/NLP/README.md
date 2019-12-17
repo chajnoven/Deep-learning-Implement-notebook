@@ -1,4 +1,6 @@
-# Content
+# NLP
+---
+## Content
 
 - [RNN](#rnn)
 
@@ -66,9 +68,7 @@ The output of the Use Gate is ![image-20191211120122026](imgs/image-201912111201
 
 Because github doesn't support latex, so I have made a original, which is latex math.
 
-<<<<<<< HEAD
-[to](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
-=======
-[to](https://github.com/chajnoven/Deep-learning-Implement-notebook/blob/master/Notebook/NLP/original/README-original.md)
->>>>>>> 607a8a60d8407284b074aaf791b1530679230d77
+[reference](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)
+[original](https://github.com/chajnoven/Deep-learning-Implement-notebook/blob/master/Notebook/NLP/original/README-original.md)
+
 
