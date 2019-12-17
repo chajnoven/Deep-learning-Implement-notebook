@@ -1,6 +1,6 @@
 # Save pth
 
-@[toc]
+[1.Save by yourself (.net)][##1.Save by yourself (.net)]
 
 ## 1.Save by yourself (.net)
 
