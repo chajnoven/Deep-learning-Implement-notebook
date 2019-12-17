@@ -5,7 +5,7 @@
 - [RNN](#rnn)
 
 - [LSTM](#lstm)
- * [LSTM ipyb](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb)
+    - [LSTM ipyb](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb)
 
 
 
