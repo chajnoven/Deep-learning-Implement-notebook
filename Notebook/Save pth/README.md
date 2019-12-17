@@ -1,6 +1,6 @@
 Save pth
 =======================
-- [Save by yourself][#Save by yourself]
+- [Save by yourself](#Save by yourself)
 
 ## Save by yourself
 ```python
