@@ -1,9 +1,9 @@
 # Save pth
 
-[1.Save by yourself (.net)][##1.Save by yourself (.net)]
+[Save by yourself][1]
 
 ## 1.Save by yourself (.net)
-
+[1]:
 ```python
 # change the name, for saving multiple files
 model_name = 'model.net'
